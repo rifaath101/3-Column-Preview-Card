@@ -8,4 +8,5 @@ Desktop View
 
 Mobile View
 
-![image](https://user-images.githubusercontent.com/72337379/121773070-8a3b4e80-cb8a-11eb-8de4-d9e44adc8b5d.png)
+![image](https://user-images.githubusercontent.com/72337379/121773114-d090ad80-cb8a-11eb-82c3-cd928a2b5e63.png)
+
