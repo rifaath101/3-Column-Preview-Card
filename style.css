@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-left: 2%;
+    margin-top: 10%;
+}
+
+.container {
+    display: flex;
+    margin: 10%;
+    height: 60vh;
+}
+
+.sedans {
+    background: hsl(31, 77%, 52%);
+    padding: 25px;
+}
+
+.suvs {
+    background: hsl(184, 100%, 22%);
+    padding: 25px;
+}
+
+.luxury {
+    background: hsl(179, 100%, 13%);
+    padding: 25px;
+}
+
+.title {
+    margin: 3%;
+}
+
+.logo {
+    padding: 10px;
+}
+
+button {
+    margin: 70px 0px 0px 30px;
+    width: 120px;
+    height: 40px;
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 18px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.cta-sedans {
+    background: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);   
+}
+
+.cta-suvs {
+    background: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+}
+
+.cta-luxury {
+    background: hsl(0, 0%, 95%);
+    color:  hsl(179, 100%, 13%);
+}
+
+.cta-sedans:hover {
+    background-color: hsl(31, 77%, 52%);
+    color: white;
+}
+
+.cta-luxury:hover {
+    background-color:  hsl(179, 100%, 13%);
+    color: white;
+}
+
+.cta-suvs:hover {
+    background-color:  hsl(184, 100%, 22%);
+    color: white;
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+    }
+}
