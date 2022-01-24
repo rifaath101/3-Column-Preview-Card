@@ -1,12 +1,18 @@
 # Frontend Mentor - 3-column preview card component
 
-Screenshots
+https://user-images.githubusercontent.com/72337379/150769543-84a3ea97-c3d6-4c3c-85c6-c5cacf39057b.mp4
 
-Desktop View
+https://rifaath101.github.io/3-Column-Preview-Card/
 
-![image](https://user-images.githubusercontent.com/72337379/121773040-5fe99100-cb8a-11eb-82f7-14d5924557fb.png)
+Purpose : 
 
-Mobile View
+To understand Html and how to style with Css
 
-![image](https://user-images.githubusercontent.com/72337379/121773114-d090ad80-cb8a-11eb-82c3-cd928a2b5e63.png)
+Concepts learned :
+
+1. Flexbox
+2. Margins
+3. Padding
+4. Media Query
+
 
