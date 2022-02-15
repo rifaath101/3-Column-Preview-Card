@@ -1,18 +1,17 @@
 # Frontend Mentor - 3-column preview card component
 
-https://user-images.githubusercontent.com/72337379/150769543-84a3ea97-c3d6-4c3c-85c6-c5cacf39057b.mp4
-
-https://rifaath101.github.io/3-Column-Preview-Card/
-
-Purpose : 
+## Purpose : 
 
 To understand Html and how to style with Css
 
-Concepts learned :
+## Concepts learned :
 
 1. Flexbox
 2. Margins
 3. Padding
 4. Media Query
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/72337379/154092539-56aa816e-9c5a-4d1d-8824-7ecab893abeb.png)
 
